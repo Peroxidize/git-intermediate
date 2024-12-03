@@ -9,3 +9,7 @@ function subtract(a, b) {
 function add(a, b) {
     return a + b;
 }
+
+function squared(a) {
+    return a * a;
+}
