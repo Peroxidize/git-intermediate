@@ -2,6 +2,8 @@ function printHelloWorld(num) {
     for (let i = 0; i < num; i++) {
         console.log("Hellow World!");
     }
+
+    num <= 0 ? console.log("Hello World") : "";
 }
 
 function subtract(a, b) {
