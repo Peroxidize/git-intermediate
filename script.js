@@ -19,3 +19,7 @@ function squared(a) {
 function divide(a, b) {
     return b === 0 ? "Cannot divide by zero" : a / b;
 }
+
+function pow(a, b) {
+    return Math.pow(a, b);
+}
